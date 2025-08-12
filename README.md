@@ -33,6 +33,12 @@ I'm a Junior Software Engineer with a strong academic foundation (BSc Computer S
 - Secure login, CSRF protection, HTTPS, password hashing
 - Deployed using OpenShift
 
+### 🔹 [Algorithms Visualiser](https://github.com/1shaq-i/Algo-Visualiser) – Visualising Data Structures
+> Team Project | [Live Demo](https://algorithm-v.netlify.app/)
+- Vanilla JavaScript SPA
+- This SPA enables users to input a data structure of their choice to help them better visualise - ideal for individuals attempting to solve ADS problems
+- Deployed using Netlify
+
 ### 🔹 Personal Finance Tracker *(In Progress)*
 > Track expenses, categorize transactions, and visualize spending trends
 - React + TypeScript frontend (Netlify)
