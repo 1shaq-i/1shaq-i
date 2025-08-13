@@ -68,6 +68,6 @@ I'm a Junior Software Engineer with a strong academic foundation (BSc Computer S
 ## 📫 Let's Connect
 
 - 🌐 [Portfolio](https://1shaq-portfolio.netlify.app/)
-- 💼 [LinkedIn](www.linkedin.com/in/ishaq-ahmed-261025284)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ishaq-ahmed-261025284/)
 - 📬 ishaqahmed1620@gmail.com
 - 🧠 [LeetCode](https://leetcode.com/u/1shaq)
